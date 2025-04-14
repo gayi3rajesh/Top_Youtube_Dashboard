@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/9db443cb-06e7-40a6-a399-a055d5c200fb)# TOP Youbue Channel 2025
+# TOP Youbue Channel 2025
 
 # Objective
 The Head of Marketing wants to find out who the top YouTubers are in 2025 to decide on which YouTubers would be best to run marketing campaigns throughout the rest of the year.
@@ -59,14 +59,16 @@ Here are the data quality tests conducted:
 3. Column datatype check
 4. Duplicate value check
 
-- Category Table
+# Category Table
   
 ![dashboard-Mockup](assets/images/Category table check-1.png)
 ![dashboard-Mockup](assets/images/Category table check-2.png)
 ![dashboard-Mockup](assets/images/Category table check-3.png)
 ![dashboard-Mockup](assets/images/Category table check-4.png)
 
-- Youtube channel Table
+
+# Youtube channel Table
+
 ![dashboard-Mockup](assets/images/youbute table check-1.png)
 ![dashboard-Mockup](assets/images/youbute table check-2.png)
 ![dashboard-Mockup](assets/images/youbute table check-3.png)
@@ -74,29 +76,30 @@ Here are the data quality tests conducted:
 
 
 ## Visualization
-Results
+# Results
 •	What does the dashboard look like?
 
-SQL Quert=y and result of top 10 profitable youtube channels and its details
+SQL Query and result of top 10 profitable youtube channels and its details
+
 ![dashboard-Mockup](assets/images/top 10 profitable channel.jpg)
 
-# Discovery
-•	What did we learn?
+## Discovery
+# •	What did we learn?
 We discovered that
 1.	T- series, Coco Melon and SET india are the channnels with the most subscribers 
 2.	SET india, T- series and PewDiePie are the channels with the most videos uploaded
 3.	T- series, Coco Melon and SET india are the channels with the most views
 4.	Music and Entertainment channels are useful for broader reach, as the channels posting consistently on their platforms and generating the most engagement are focus on entertainment and music
 Recommendations
-•	What do you recommend based on the insights gathered?
+# •	What do you recommend based on the insights gathered?
 1.	T-series is the best YouTube channel to collaborate with if we want to maximize visibility because this channel has the most YouTube subscribers in the UK
 2.	Although Mr Beast, cocomelon are regular publishers on YouTube, it may be worth considering whether collaborating with them with the current budget caps are worth the effort.
 3.	The most profitable categories to deal with would be Music, Entertainment and then People & Blogs. Michael Jackson will be the most profitable option followed by Maluma, Adele and Rihanna.
 4.	The top 3 channels to form collaborations with are Inside Edition, Ryan’s World and Tsuriki Show based on this analysis, because they attract the most engagement on their channels consistently.
 
 
-# Action plan
-•	What course of action should we take and why?
+## Action plan
+
 Based on our analysis, we believe the best channel to advance a long-term partnership deal with to promote the client's products is the channels under music category like Michael Jackson, Adele etc
 We'll have conversations with the marketing client to forecast what they also expect from this collaboration. Once we observe we're hitting the expected milestones, we'll advance with potential partnerships with DanTDM, Mister Max and NoCopyrightSounds channels in the future.
 •	What steps do we take to implement the recommended decisions effectively?
