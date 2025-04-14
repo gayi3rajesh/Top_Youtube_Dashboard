@@ -44,3 +44,10 @@ Pseudocode
 7.	Generate the findings based on the insights
 8.	Write the documentation + commentary
 9.	Publish the data to GitHub Pages
+    
+## Transform the data
+# Create the SQL view
+
+![dashboard-Mockup](assets/images/category-view.png)
+![dashboard-Mockup](assets/images/youtube channel- view.png)
+
