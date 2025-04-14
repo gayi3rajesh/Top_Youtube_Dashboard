@@ -1,4 +1,4 @@
-# TOP Youbue Channel 2025
+# TOP Youtube Channel 2025
 
 # Objective
 The Head of Marketing wants to find out who the top YouTubers are in 2025 to decide on which YouTubers would be best to run marketing campaigns throughout the rest of the year.
@@ -78,6 +78,8 @@ Here are the data quality tests conducted:
 ## Visualization
 # Results
 •	What does the dashboard look like?
+
+![dashboard-Mockup](assets/images/Dashboard- youtube pbi.png)
 
 SQL Query and result of top 10 profitable youtube channels and its details
 
