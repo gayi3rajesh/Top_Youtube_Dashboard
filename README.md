@@ -1,20 +1,20 @@
-# TOP Youtube Channel 2025
+## TOP Youtube Channel 2025
 
 # Objective
 The Head of Marketing wants to find out who the top YouTubers are in 2025 to decide on which YouTubers would be best to run marketing campaigns throughout the rest of the year.
-# •	What is the ideal solution?
+# 	What is the ideal solution?
 To create a dashboard that provides insights into the top YouTubers in 2025 that includes their
 •	subscriber count
 •	total views
 •	total videos
 This will help the marketing team make informed decisions about which YouTubers to collaborate with for their marketing campaigns.
 # Data source
- Two tables with data on the top YouTubers in 2025 that includes their
+ Two tables first one with data on the top YouTubers in 2025 that includes their
 •	channel names
 •	total subscribers
 •	total views
 •	total videos uploaded
-Category table and their corresponding campaign cost details 
+Second table with Categories and their corresponding campaign cost details 
 The data is sourced from Kaggle (an Excel extract)
 # Stages
 •	Design
@@ -28,7 +28,7 @@ To understand what it should contain, we need to figure out what questions we ne
 1.	Who are the top 10 YouTubers with the most subscribers?
 2.	Which 10 channels have uploaded the most videos and views
 3.	Total subscribers by category
-4.	Total views by category
+4.	Total profit by category
 5.	Which 5 channels have the highest subscriber engagement rate per video uploaded
 For now, these are some of the questions we need to answer, this may change as we progress down our analysis.
 
@@ -45,8 +45,8 @@ Pseudocode
 8.	Write the documentation + commentary
 9.	Publish the data to GitHub Pages
     
-## Transform the data
-# Create the SQL view
+# Transform the data
+ Create the SQL view
 
 ![dashboard-Mockup](assets/images/category-view.png)
 ![dashboard-Mockup](assets/images/youtube channel- view.png)
@@ -85,7 +85,7 @@ SQL Query and result of top 10 profitable youtube channels and its details
 
 ![dashboard-Mockup](assets/images/top 10 profitable channel.jpg)
 
-## Discovery
+# Discovery
 # •	What did we learn?
 We discovered that
 1.	T- series, Coco Melon and SET india are the channnels with the most subscribers 
