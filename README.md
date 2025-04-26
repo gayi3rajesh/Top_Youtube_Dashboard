@@ -52,14 +52,14 @@ Pseudocode
 ![dashboard-Mockup](assets/images/youtube channel- view.png)
 
 # Testing
-	What data quality and validation checks are you going to create?
+What data quality and validation checks are you going to create?
 Here are the data quality tests conducted:
 1. Row count check
 2. Column count check
 3. Column datatype check
 4. Duplicate value check
 
-# Category Table
+## Category Table
   
 ![dashboard-Mockup](assets/images/Category table check-1.png)
 ![dashboard-Mockup](assets/images/Category table check-2.png)
@@ -67,7 +67,7 @@ Here are the data quality tests conducted:
 ![dashboard-Mockup](assets/images/Category table check-4.png)
 
 
-# Youtube channel Table
+## Youtube channel Table
 
 ![dashboard-Mockup](assets/images/youbute table check-1.png)
 ![dashboard-Mockup](assets/images/youbute table check-2.png)
