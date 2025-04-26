@@ -2,7 +2,7 @@
 
 # Objective
 The Head of Marketing wants to find out who the top YouTubers are in 2025 to decide on which YouTubers would be best to run marketing campaigns throughout the rest of the year.
-# 	What is the ideal solution?
+# What is the ideal solution?
 To create a dashboard that provides insights into the top YouTubers in 2025 that includes their
 •	subscriber count
 •	total views
@@ -52,7 +52,7 @@ Pseudocode
 ![dashboard-Mockup](assets/images/youtube channel- view.png)
 
 # Testing
-What data quality and validation checks are you going to create?
+  What data quality and validation checks are you going to create?
 Here are the data quality tests conducted:
 1. Row count check
 2. Column count check
