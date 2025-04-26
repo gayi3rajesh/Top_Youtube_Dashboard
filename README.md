@@ -1,4 +1,4 @@
-## TOP Youtube Channel 2025
+# TOP Youtube Channel 2025
 
 # Objective
 The Head of Marketing wants to find out who the top YouTubers are in 2025 to decide on which YouTubers would be best to run marketing campaigns throughout the rest of the year.
@@ -23,7 +23,7 @@ The data is sourced from Kaggle (an Excel extract)
 •	Analysis
 # Design
 Dashboard components required
-•	What should the dashboard contain based on the requirements provided?
+	What should the dashboard contain based on the requirements provided?
 To understand what it should contain, we need to figure out what questions we need the dashboard to answer:
 1.	Who are the top 10 YouTubers with the most subscribers?
 2.	Which 10 channels have uploaded the most videos and have the most views
@@ -34,7 +34,7 @@ For now, these are some of the questions we need to answer, this may change as w
 
 # Development
 Pseudocode
-•	What's the general approach in creating this solution from start to finish?
+	What's the general approach in creating this solution from start to finish?
 1.	Get the data
 2.	Explore the data in Excel
 3.	Load the data into SQL Server
@@ -52,7 +52,7 @@ Pseudocode
 ![dashboard-Mockup](assets/images/youtube channel- view.png)
 
 # Testing
-•	What data quality and validation checks are you going to create?
+	What data quality and validation checks are you going to create?
 Here are the data quality tests conducted:
 1. Row count check
 2. Column count check
@@ -75,9 +75,9 @@ Here are the data quality tests conducted:
 ![dashboard-Mockup](assets/images/youbute table check-4.png)
 
 
-## Visualization
-# Results
-•	What does the dashboard look like?
+# Visualization
+## Results
+	What does the dashboard look like?
 
 ![dashboard-Mockup](assets/images/Dashboard- youtube pbi.png)
 
@@ -86,14 +86,14 @@ SQL Query and result of top 10 profitable youtube channels and its details
 ![dashboard-Mockup](assets/images/top 10 profitable channel.jpg)
 
 # Discovery
-# •	What did we learn?
+## 	What did we learn?
 We discovered that
 1.	T- series, Coco Melon and SET india are the channnels with the most subscribers 
 2.	SET india, T- series and PewDiePie are the channels with the most videos uploaded
 3.	T- series, Coco Melon and SET india are the channels with the most views
 4.	Music and Entertainment channels are useful for broader reach, as the channels posting consistently on their platforms and generating the most engagement are focused on entertainment and music
 Recommendations
-# •	What do you recommend based on the insights gathered?
+## 	What do you recommend based on the insights gathered?
 1.	T-series is the best YouTube channel to collaborate with if we want to maximize visibility because this channel has the most YouTube subscribers in the UK
 2.	Although Mr Beast, cocomelon are big names and regular publishers on YouTube, it may be worth considering whether collaborating with them with the current budget caps are worth the effort. This is due to the fact that there are other YouTubers with lesser subscribers generating more views per video leading to a greater RoI for us.
 3.	The most profitable categories to deal with would be Music, Entertainment and then People & Blogs. Michael Jackson will be the most profitable option followed by Maluma, Adele and Rihanna.
