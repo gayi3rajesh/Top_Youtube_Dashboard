@@ -94,7 +94,7 @@ We discovered that
 4.	Music and Entertainment channels are useful for broader reach, as the channels posting consistently on their platforms and generating the most engagement are focused on entertainment and music
 Recommendations
 ## 	What do you recommend based on the insights gathered?
-1.	T-series is the best YouTube channel to collaborate with if we want to maximize visibility because this channel has the most YouTube subscribers in the UK
+1.	T-series is the best YouTube channel to collaborate with if we want to maximize visibility because this channel has the most YouTube subscribers
 2.	Although Mr Beast, cocomelon are big names and regular publishers on YouTube, it may be worth considering whether collaborating with them with the current budget caps are worth the effort. This is due to the fact that there are other YouTubers with lesser subscribers generating more views per video leading to a greater RoI for us.
 3.	The most profitable categories to deal with would be Music, Entertainment and then People & Blogs. Michael Jackson will be the most profitable option followed by Maluma, Adele and Rihanna.
 4.	While looking only at the Engagement Rate of content, the top 3 channels to form collaborations with are Inside Edition, Ryan’s World and Tsuriki Show based on this analysis. Making early deals with these channels will boost ROI once their subscriber base grows and will be beneficial in the long run.
